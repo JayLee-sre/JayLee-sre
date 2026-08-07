@@ -1,15 +1,7 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=580&lines=Hi there 👋, I'm Jay Lee;SRE Trainee | Cloud & Linux Operations Engineer" />
-</p>
-
----
-
 ## 🧑‍💻 About Me
-I'm **Jay Lee (Li Jie)**, currently working as an **SRE intern**.
-Focus areas: Linux system administration, cloud infrastructure, container orchestration, automation, observability, incident troubleshooting and ops tool development.
+I'm Jay Lee (Li Jie), currently working as an SRE intern. Focus areas: Linux system administration, cloud infrastructure, container orchestration, automation, observability, incident troubleshooting and ops tool development.
 
-I am engaged in daily production environment operation, service deployment, monitoring maintenance and fault handling.
-Keen on exploring system architecture, performance tuning and improving operational efficiency via automation and platform engineering.
+I am engaged in daily production environment operation, service deployment, monitoring maintenance and fault handling. Keen on exploring system architecture, performance tuning and improving operational efficiency via automation and platform engineering.
 
 Career goal: To be a professional SRE with solid underlying knowledge, strong troubleshooting capability and engineering thinking.
 
