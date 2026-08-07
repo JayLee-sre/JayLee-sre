@@ -50,7 +50,3 @@ Career goal: To be a professional SRE with solid underlying knowledge, strong tr
 ## 📫 Contact
 - Email: 3346351923@qq.com
 - GitHub: [github.com/JayLee-sre](https://github.com/JayLee-sre)
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=JayLee-sre&color=0099ff&style=flat-square" alt="Visitor count" />
-</p>
