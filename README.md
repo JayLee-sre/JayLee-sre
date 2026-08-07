@@ -1,192 +1,113 @@
-# Hi there 👋, I'm Jay Lee
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=580&lines=Hi there 👋, I'm Jay Lee;SRE Trainee | Cloud & Linux Operations Engineer" />
+</p>
 
 <p align="center">
-  <a href="#english">English</a> |
-  <a href="#中文">中文</a>
+  <a href="#en">English</a> • <a href="#zh">中文</a>
 </p>
 
 ---
 
-<a id="english"></a>
+<a id="en"></a>
+## 🧑‍💻 About Me
+I'm **Jay Lee (Li Jie)**, currently working as an **SRE intern**.
+Focus areas: Linux system administration, cloud infrastructure, container orchestration, automation, observability, incident troubleshooting and ops tool development.
 
-## English
+I am engaged in daily production environment operation, service deployment, monitoring maintenance and fault handling.
+Keen on exploring system architecture, performance tuning and improving operational efficiency via automation and platform engineering.
 
-> A college student preparing for an internship, focused on SRE, Linux operations, cloud computing, automation, monitoring, and AI-powered operations.
-
----
-
-## 👨‍💻 About Me
-
-I'm **Jay Lee**, also known as **Li Jie**.
-
-I am a college student preparing to start an internship, currently focusing on **SRE / Operations Engineering**.
-
-I am continuously improving my skills in Linux system administration, cloud computing, container platforms, automation, monitoring, troubleshooting, and backend service development.
-
-I enjoy learning how real-world systems run, how services are deployed and maintained, and how engineers solve problems in production environments.
-
-My goal is to become an operations engineer with solid fundamentals, strong troubleshooting skills, and the ability to improve efficiency through automation and platform-based tools.
-
----
+Career goal: To be a professional SRE with solid underlying knowledge, strong troubleshooting capability and engineering thinking.
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,redhat,bash,git,docker,kubernetes,openshift,nginx,python,go,mysql,redis,ansible,prometheus,grafana,jenkins,vim,vscode&perline=9" />
+</a>
 </p>
 
----
+## 🎯 Core Practice
+- Linux system tuning & network fault diagnosis
+- Kubernetes / OpenShift container platform operation
+- Docker containerized service delivery
+- OpenStack private cloud maintenance
+- Ceph distributed storage management
+- Nginx reverse proxy & traffic governance
+- MySQL / Redis operation & optimization
+- Ansible automated operation workflow
+- Prometheus + Grafana observability stack
+- Go/Python internal operation tool development
+- AIOps & automated anomaly disposal
 
-## 🚀 Focus Areas
+## 📜 Certifications
+- RHCA — Red Hat Certified Architect
+- HCIP — Huawei openEuler
+- SUNDRAY Certified Wireless Professional
 
-- Linux system administration
-- Network fundamentals and troubleshooting
-- OpenStack cloud platform operations
-- Kubernetes / OpenShift container platforms
-- Docker containerized deployment
-- Ceph distributed storage
-- Nginx reverse proxy and service exposure
-- MySQL / Redis usage and troubleshooting
-- Ansible automation
-- Prometheus / Grafana / Zabbix monitoring
-- Go-based operations tools
-- AI tools for operations and troubleshooting
-
----
-
-## 📚 Certifications
-
-- **RHCA** - Red Hat Certified Architect
-- **HCIP** - Huawei openEuler
-- **SUNDRAY Certified Wireless Professional**
-
----
-
-## 📂 What I Share
-
-- Linux and SRE learning notes
-- Network troubleshooting records
-- OpenStack / OpenShift / Kubernetes labs
-- Docker deployment practices
-- Ceph and storage learning notes
-- Ansible automation scripts
-- Go-based operations tools
-- MySQL / Redis notes
-- Prometheus / Grafana / Zabbix monitoring practices
-- AI Ops and automation projects
-
----
-
-## 📊 GitHub Stats
-
-![Jay Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLee-sre&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayLee-sre&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-[![Jay Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayLee-sre&theme=tokyo-night)](https://github.com/JayLee-sre)
-
----
+## 📊 GitHub Overview
+<p align="center">
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=JayLee-sre&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayLee-sre&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JayLee-sre&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 📫 Contact
-
 - Email: 3346351923@qq.com
 - GitHub: [github.com/JayLee-sre](https://github.com/JayLee-sre)
 
 ---
 
-<a id="中文"></a>
+<a id="zh"></a>
+## 🧑‍💻 关于我
+我是 **Jay Lee，李杰**，目前担任 **SRE运维实习生**。
+深耕 Linux 系统运维、云基础设施、容器编排、自动化运维、可观测体系、线上故障排查与运维工具开发。
 
-## 中文
+参与生产环境日常运维、服务部署、监控保障与故障处置；持续研究系统架构、性能调优，依靠自动化、平台化手段降低运维负担。
 
-> 一名即将进入实习阶段的大学生，主要学习和实践 SRE 运维、Linux、云计算、自动化运维、监控体系与 AI 运维场景。
-
----
-
-## 👨‍💻 关于我
-
-我是 **Jay Lee**，中文名 **李杰**。
-
-我是一名即将进入实习阶段的大学生，目前主要关注 **SRE / 运维工程师方向**。
-
-我正在持续学习 Linux 系统管理、云计算平台、容器平台、自动化运维、监控告警、故障排查以及后端服务开发等内容。
-
-我对真实生产环境中的系统运行、服务部署、监控维护和问题定位很感兴趣，也希望通过不断实践提升自己的工程能力。
-
-我的目标是成为一名基础扎实、善于排查问题，并能够通过自动化和平台化工具提升运维效率的运维工程师。
-
----
+职业目标：成为具备扎实底层功底、较强排障能力与工程思维的SRE工程师。
 
 ## 🛠️ 技术栈
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,redhat,bash,git,docker,kubernetes,openshift,nginx,python,go,mysql,redis,ansible,prometheus,grafana,jenkins,vim,vscode&perline=9" />
+</a>
 </p>
 
----
+## 🎯 实践方向
+- Linux系统调优、网络故障定位
+- Kubernetes / OpenShift 容器平台运维
+- Docker 容器化服务交付
+- OpenStack 私有云运维
+- Ceph 分布式存储运维
+- Nginx 反向代理与流量治理
+- MySQL / Redis 运维与性能调优
+- Ansible 自动化运维流程搭建
+- Prometheus+Grafana 监控可观测体系
+- Go/Python 自研运维工具开发
+- AI辅助运维、异常自动化处置
 
-## 🚀 关注方向
+## 📜 资质认证
+- RHCA — Red Hat Certified Architect
+- HCIP — 华为 openEuler
+- 信锐SUNDRAY 无线认证工程师
 
-- Linux 系统管理
-- 网络基础与故障排查
-- OpenStack 云平台运维
-- Kubernetes / OpenShift 容器平台
-- Docker 容器化部署
-- Ceph 分布式存储
-- Nginx 反向代理与服务暴露
-- MySQL / Redis 使用与排查
-- Ansible 自动化运维
-- Prometheus / Grafana / Zabbix 监控体系
-- Go 运维工具开发
-- AI 工具辅助运维与故障分析
-
----
-
-## 📚 认证
-
-- **RHCA** - Red Hat Certified Architect
-- **HCIP** - Huawei openEuler
-- **SUNDRAY Certified Wireless Professional**
-
----
-
-## 📂 我会分享
-
-- Linux 与 SRE 学习笔记
-- 网络基础与故障排查记录
-- OpenStack / OpenShift / Kubernetes 实验
-- Docker 部署实践
-- Ceph 与存储学习记录
-- Ansible 自动化脚本
-- Go 运维工具开发
-- MySQL / Redis 学习记录
-- Prometheus / Grafana / Zabbix 监控实践
-- AI Ops 与自动化项目
-
----
+## 📂 内容分享
+线上故障复盘｜云平台实验笔记｜自动化脚本｜监控实践｜运维工具源码｜SRE学习沉淀
 
 ## 📊 GitHub 数据
-
-![Jay Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayLee-sre&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayLee-sre&layout=compact&theme=tokyonight)
-
----
-
-## 📈 活跃图
-
-[![Jay Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayLee-sre&theme=tokyo-night)](https://github.com/JayLee-sre)
-
----
+<p align="center">
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=JayLee-sre&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayLee-sre&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JayLee-sre&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 📫 联系方式
-
 - Email: 3346351923@qq.com
 - GitHub: [github.com/JayLee-sre](https://github.com/JayLee-sre)
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=JayLee-sre&color=0099ff&style=flat-square" alt="Visitor count" />
+</p>
