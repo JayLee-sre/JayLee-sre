@@ -24,10 +24,10 @@ Career goal: To be a professional SRE with solid underlying knowledge, strong tr
 ### 📖 Currently Learning
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=terraform,kvm,tensorflow,pytorch&perline=6" />
+<img src="https://skillicons.dev/icons?i=terraform,kvm,prometheus&perline=6" />
 </a>
 </p>
-> GPU cluster operation, GPU virtualization, computing resource scheduling, infrastructure as code
+> GPU cluster operation, GPU virtualization, compute resource scheduling & infrastructure as code
 
 ## 🎯 Core Practice
 - Linux system tuning & network fault diagnosis
