@@ -29,10 +29,10 @@ Career goal: To be a professional SRE with solid underlying knowledge, strong tr
 ### 📖 Currently Learning
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nvidia,cuda,kvm,terraform&perline=6" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,kvm,terraform&perline=6" />
 </a>
 </p>
-> GPU computing, GPU cluster operation, CUDA environment maintenance, virtualization & infrastructure as code
+> GPU cluster operation, GPU virtualization, CUDA environment deployment, infrastructure as code
 
 ## 🎯 Core Practice
 - Linux system tuning & network fault diagnosis
@@ -84,10 +84,10 @@ Career goal: To be a professional SRE with solid underlying knowledge, strong tr
 ### 📖 正在学习
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nvidia,cuda,kvm,terraform&perline=6" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,kvm,terraform&perline=6" />
 </a>
 </p>
-> GPU算力集群运维、CUDA环境部署调试、虚拟化、基础设施即代码
+> GPU算力集群运维、GPU虚拟化直通、CUDA环境部署调优、基础设施即代码
 
 ## 🎯 实践方向
 - Linux系统调优、网络故障定位
