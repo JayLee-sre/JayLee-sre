@@ -19,20 +19,11 @@ Keen on exploring system architecture, performance tuning and improving operatio
 Career goal: To be a professional SRE with solid underlying knowledge, strong troubleshooting capability and engineering thinking.
 
 ## 🛠️ Tech Stack
-### ✅ Already Mastered
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=linux,redhat,bash,git,docker,kubernetes,openshift,nginx,python,go,mysql,redis,ansible,prometheus,grafana,jenkins,vim,vscode&perline=9" />
 </a>
 </p>
-
-### 📖 Currently Learning
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,kvm,terraform,cloud&perline=6" />
-</a>
-</p>
-> GPU cluster operation, GPU virtualization, computing resource scheduling, infrastructure as code
 
 ## 🎯 Core Practice
 - Linux system tuning & network fault diagnosis
@@ -57,6 +48,9 @@ Career goal: To be a professional SRE with solid underlying knowledge, strong tr
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=JayLee-sre&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayLee-sre&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JayLee-sre&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 📫 Contact
 - Email: 3346351923@qq.com
@@ -74,20 +68,11 @@ Career goal: To be a professional SRE with solid underlying knowledge, strong tr
 职业目标：成为具备扎实底层功底、较强排障能力与工程思维的SRE工程师。
 
 ## 🛠️ 技术栈
-### ✅ 已掌握
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=linux,redhat,bash,git,docker,kubernetes,openshift,nginx,python,go,mysql,redis,ansible,prometheus,grafana,jenkins,vim,vscode&perline=9" />
 </a>
 </p>
-
-### 📖 正在学习
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,kvm,terraform,cloud&perline=6" />
-</a>
-</p>
-> GPU算力集群运维、GPU虚拟化直通、算力资源调度、基础设施即代码
 
 ## 🎯 实践方向
 - Linux系统调优、网络故障定位
@@ -114,6 +99,9 @@ Career goal: To be a professional SRE with solid underlying knowledge, strong tr
 <p align="center">
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=JayLee-sre&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayLee-sre&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JayLee-sre&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## 📫 联系方式
